@@ -8,3 +8,4 @@ venv/
 .env
 .DS_Store
 Thumbs.db
+Data-Cell-Lineage-Regeneration/
