@@ -1,0 +1,81 @@
+{
+  "MeanIntersectionOverUnion": 0.956,
+  "MeanDiceCoefficient": 0.977,
+  "Samples": [
+    {
+      "FrameIndex": 1,
+      "IntersectionOverUnion": 0.962,
+      "DiceCoefficient": 0.981
+    },
+    {
+      "FrameIndex": 5,
+      "IntersectionOverUnion": 0.94,
+      "DiceCoefficient": 0.969
+    },
+    {
+      "FrameIndex": 6,
+      "IntersectionOverUnion": 0.964,
+      "DiceCoefficient": 0.982
+    },
+    {
+      "FrameIndex": 7,
+      "IntersectionOverUnion": 0.963,
+      "DiceCoefficient": 0.981
+    },
+    {
+      "FrameIndex": 21,
+      "IntersectionOverUnion": 0.955,
+      "DiceCoefficient": 0.977
+    },
+    {
+      "FrameIndex": 49,
+      "IntersectionOverUnion": 0.952,
+      "DiceCoefficient": 0.975
+    },
+    {
+      "FrameIndex": 59,
+      "IntersectionOverUnion": 0.952,
+      "DiceCoefficient": 0.975
+    },
+    {
+      "FrameIndex": 67,
+      "IntersectionOverUnion": 0.956,
+      "DiceCoefficient": 0.978
+    },
+    {
+      "FrameIndex": 72,
+      "IntersectionOverUnion": 0.958,
+      "DiceCoefficient": 0.979
+    },
+    {
+      "FrameIndex": 75,
+      "IntersectionOverUnion": 0.961,
+      "DiceCoefficient": 0.98
+    },
+    {
+      "FrameIndex": 92,
+      "IntersectionOverUnion": 0.957,
+      "DiceCoefficient": 0.978
+    },
+    {
+      "FrameIndex": 96,
+      "IntersectionOverUnion": 0.953,
+      "DiceCoefficient": 0.976
+    },
+    {
+      "FrameIndex": 100,
+      "IntersectionOverUnion": 0.956,
+      "DiceCoefficient": 0.977
+    },
+    {
+      "FrameIndex": 102,
+      "IntersectionOverUnion": 0.946,
+      "DiceCoefficient": 0.972
+    },
+    {
+      "FrameIndex": 112,
+      "IntersectionOverUnion": 0.961,
+      "DiceCoefficient": 0.98
+    }
+  ]
+}
